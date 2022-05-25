@@ -1,2 +1,2 @@
-# design-pattern-using-cpp
-learning design pattern using C++
+# design-patterns
+Implementing design patterns using C++ and Java
